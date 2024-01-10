@@ -1,6 +1,7 @@
-Hello everyone! this is the new cheat for hsr 1.6
+# Honkai: Star Rail Simple Game Cheat:
+This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
 
-Instructions:
+# Instruction:
 1. Turn off windows defender/ antivirus first!
 2. open the program
 3. choose honkai star rail path,
